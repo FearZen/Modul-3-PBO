@@ -21,11 +21,11 @@ public class Modul3main {
         Elang rebus=new Elang();
         Bebek bakar=new Bebek();
         System.out.println("Ayam Pemakan "+goreng.makan1);
-        unggas.kembang1();
+        rebus.kembang1();
         System.out.println("Elang Pemakan "+rebus.makan);
-        unggas.kembang();
+        goreng.kembang();
         System.out.println("Bebek Pemakan "+bakar.makan1);
-        unggas.kembang1();
+        bakar.kembang1();
         goreng.skill();
         rebus.skill();
         bakar.skill();
