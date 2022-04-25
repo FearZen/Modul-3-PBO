@@ -16,7 +16,7 @@ public class Modul3main {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        Aves unggas=new Aves();
+       
         Ayam goreng=new Ayam();
         Elang rebus=new Elang();
         Bebek bakar=new Bebek();
