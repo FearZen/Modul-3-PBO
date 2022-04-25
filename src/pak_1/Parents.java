@@ -19,8 +19,4 @@ public class Parents {
         this.Mahasiswa=Mahasiswa;
         this.semester=semester;
     }
-    public void show(){
-        System.out.println("Nama Mahasiswa "+this.Mahasiswa);
-        System.out.println("Semester : "+this.semester);
-    }
 }
