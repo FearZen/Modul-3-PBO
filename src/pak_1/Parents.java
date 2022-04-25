@@ -15,7 +15,7 @@ public class Parents {
     public Parents(String Mahasiswa){
         this.Mahasiswa=Mahasiswa;
     }
-    public Parents(String Mahasiswa, int semester){
+    public Parents(String Mahasiswa,int semester){
         this.Mahasiswa=Mahasiswa;
         this.semester=semester;
     }
