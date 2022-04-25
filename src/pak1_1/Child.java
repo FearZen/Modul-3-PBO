@@ -19,4 +19,8 @@ public class Child extends Parents{
         super(Mahasiswa);
         this.semester=semester;
     }
+    public void show(){
+        System.out.println("Nama Mahasiswa "+super.Mahasiswa);
+        System.out.println("Semester : "+super.semester);
+    }
 }
