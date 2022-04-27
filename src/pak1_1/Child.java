@@ -23,4 +23,5 @@ public class Child extends Parents{
         System.out.println("Nama Mahasiswa "+super.Mahasiswa);
         System.out.println("Semester : "+super.semester);
     }
+    
 }
